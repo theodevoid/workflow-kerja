@@ -1,1 +1,2 @@
 feature home
+link to register
